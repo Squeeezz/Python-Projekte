@@ -4,7 +4,7 @@ Dieses Repository enthält meine Python-Übungsprojekte, die ich auf W3Schools u
 
 - **Level 1 – Ultra-Anfänger:** Grundlagen und einfache Programme, um sich mit Python vertraut zu machen.
 - **Level 2 – Wichtige Basics:** Erweiterte Konzepte wie Schleifen, Bedingungen, Input-Validierung und Randomisierung.
-- **Level 2 – Wichtige Basics:** ---------------###Kommt noch###---------------
+- **Level 3 – x:** ---------------###Kommt noch###---------------
 
 Jedes Projekt enthält eine kurze Beschreibung und den Code.
 
